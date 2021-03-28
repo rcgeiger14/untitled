@@ -14,4 +14,9 @@ if(require(mapproj)) {
   m = map("state", proj="bonne", param=45, fill=TRUE, plot=FALSE)
   # North Dakota is listed as 70,704 square miles
   area.map(m, "North Dakota")
-}
+}fafadfafasdfafadsfa da
+
+
+x=ewoeoskja
+fdjoaxl'afujow
+qdkflajdfjafac '
