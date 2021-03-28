@@ -20,3 +20,7 @@ if(require(mapproj)) {
 x=ewoeoskja
 fdjoaxl'afujow
 qdkflajdfjafac '
+fakdsjfsa
+jfakj
+afjka'
+afd'
